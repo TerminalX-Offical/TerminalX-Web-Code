@@ -1,2 +1,4 @@
 # TerminalX-Web-Code
-Official Website code for TerminalX . This Website is Hosted on Vercel
+# TerminalX.cloud
+
+This is the source repository for terminalx.cloud and its custom domain terminalx.cloud. The terminalx.org is redirected to terminalx.cloud. The terminalx.com is mirrored from TerminalX/terminalx.com currently, until it can be redirected to terminalx.cloud.
